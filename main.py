@@ -1,5 +1,4 @@
 from modules.auth.Authenticator import Authenticator
-from modules.apps.direct_messages.Reader import Reader
 from modules.apps.tweets.TweetPoster import TweetPoster
 
 
